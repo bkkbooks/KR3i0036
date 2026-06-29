@@ -1,0 +1,92 @@
+canonical_identifier: bkk:krp/KR3i0036/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3i0036/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金漳蘭譜
+  date: '2015-08-24 23:18:27.863687'
+  source:
+    repository: kanripo
+    path: KR3i0036
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0036_000-WYG.yaml, hash: 'sha256:6c1879f139493a189a6dee3a0460639dd8280646fd9e625c18908136f0f0bf22'}
+  - {seq: 1, filename: KR3i0036_001-WYG.yaml, hash: 'sha256:e927447c0bb09b243e85cac7557587ebb1069c092889265e1f3f2d8477bf6880'}
+  - {seq: 2, filename: KR3i0036_002-WYG.yaml, hash: 'sha256:89f12acbed9fd1724e2327737c540d98ac8a15cf2eb7a1ab00b45b1c2e4c5663'}
+  - {seq: 3, filename: KR3i0036_003-WYG.yaml, hash: 'sha256:111d1918618cd376999bb3a800a034ea3b569d278163da498e5bad1ddcc2759a'}
+  - {seq: 4, filename: KR3i0036_004-WYG.yaml, hash: 'sha256:6aa32ac629db2f24c366690d7f6740e04311f9c3631115a285acb9a359e9787f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3i0036_000-WYG.markers.yaml, hash: 'sha256:18b91e80634cb88456f8654d035d46ef81b57a2dc004cabb3a0b6b8d72d2d728'}
+  - {seq: 1, role: markers, filename: assets/KR3i0036_001-WYG.markers.yaml, hash: 'sha256:7a21e0b846c5a97a446d86306e14efb9e2efbb6bc5896bded1f32ed3051ce01d'}
+  - {seq: 2, role: markers, filename: assets/KR3i0036_002-WYG.markers.yaml, hash: 'sha256:12930cf518f4d32565b694d6495d2badb238046b27c3ec1a0c3237a2dedb356e'}
+  - {seq: 3, role: markers, filename: assets/KR3i0036_003-WYG.markers.yaml, hash: 'sha256:bbd70ddef7fcc28168e727bf0e36eaf00187129f8fa0b4669476581dc990af9d'}
+  - {seq: 4, role: markers, filename: assets/KR3i0036_004-WYG.markers.yaml, hash: 'sha256:a55d9a217c97e8d553c7324e4c2107351af4fd769b623261ef5549fa6bcc4b2d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3i0036_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 272
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3i0036_WYG_000-3a
+    span:
+    - body
+    - 272
+    - 586
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3i0036_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 1961
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3i0036_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 1583
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3i0036_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 978
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3i0036_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 217
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:0b374a17934d3b26fa11b45d1769ba384b31c86d3a0f3a75952cba91a7185189
